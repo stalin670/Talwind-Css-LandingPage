@@ -1,4 +1,4 @@
-# Talwind-Css-Landing-Page
+# Talwind-Css-Landing-Page 👨🏻‍💻
 
 This is a simple landing page I created using Tailwind Css which was quite good. <br/>
 You can check it out repo or go to the lading page by clicking below 👇<br/>
